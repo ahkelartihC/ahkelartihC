@@ -4,8 +4,6 @@ I'm trynna be active on this platform by deploying stuff. I've been coding (stuf
 *Building an LLM KB Assistant-*
 Thinking to play w/ Hugging Face, LangChain and Py. Basic stack for now, but I want that first-hand llm building experience.
 
-Current Goal: Work in Quant.
-Sal Goal: 150k base by Aug '26 (from my full-time gig).
 ### Ultimate Goal: Transition into Healthcare and focus on research that +vely impacts people's lives. 
 There's a story for why I wanna to do this... will save the writing for a later date.
 
